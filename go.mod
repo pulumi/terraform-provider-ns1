@@ -1,4 +1,4 @@
-module github.com/terraform-providers/terraform-provider-ns1
+module github.com/ns1-terraform/terraform-provider-ns1
 
 require (
 	github.com/fatih/structs v1.0.0
