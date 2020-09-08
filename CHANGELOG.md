@@ -1,3 +1,17 @@
+## 1.10.0 (Unreleased)
+
+## 1.9.0 (September 8, 2020)
+FEATURES:
+* **New Data Source:** `ns1_record` [#137](https://github.com/ns1-terraform/terraform-provider-ns1/pull/137). Thanks to @zahiar!
+
+## 1.8.6 (August 31, 2020)
+ENHANCEMENTS:
+* Add additional config field to monitoring job configuration
+
+## 1.8.5 (August 13, 2020)
+BUG FIXES:
+* Resolves issue with config maps returning floats sometimes
+
 ## 1.8.4 (June 24, 2020)
 BUG FIXES:
 * Resolves an issue where changes involving feed pointers in record answer metadata were not detected ([124](https://github.com/terraform-providers/terraform-provider-ns1/pull/124))
